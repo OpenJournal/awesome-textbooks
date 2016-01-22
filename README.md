@@ -5,8 +5,8 @@ I asked several folks I respect their favorite textbook -- one which they though
 | Book | Goodreads |
 |------|------|
 | [Introduction to Algorithms by Charles E. Leiserson, Clifford Stein, Ron Rivest, and Thomas H. Cormen (nominated x4)](http://citc.ui.ac.ir/zamani/clrs.pdf) | [138563](https://www.goodreads.com/book/show/138563) | 
-|| [Artificial Intelligence: A Modern Approach by Peter Norvig and Stuart J. Russell (nominated x3)](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf) | |
-| [27543[ (https://www.goodreads.com/book/show/27543.Artificial_Intelligence )| [Godel Escher Bach: An Eternal Golden Braid by Douglas R. Hofstadter (recommended 3x)](https://archive.org/details/GEBen_201404) [pdf](http://www.physixfan.com/wp-content/files/GEBen.pdf) | |
+| [Artificial Intelligence: A Modern Approach by Peter Norvig and Stuart J. Russell (nominated x3)](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf) | |
+| [Godel Escher Bach: An Eternal Golden Braid by Douglas R. Hofstadter (recommended 3x)](https://archive.org/details/GEBen_201404) [pdf](http://www.physixfan.com/wp-content/files/GEBen.pdf) | [27543](https://www.goodreads.com/book/show/27543.Artificial_Intelligence ) |
 | [Calculus Made Easy: Being a Very Simplest Introduction to Those Beautiful Methods of Recknoning which are Generally Called by the Terrifying Names of the Differntial Calculus and the Integral Calculus Macmillan, 1914](https://archive.org/details/CalculusMadeEasy) | |
 | [Autobiography of Ben Franklin](https://archive.org/details/autobiographybe00frangoog) | |
 | [The Feynman Lectures on Physics (Esp. Volume III)](https://archive.org/details/TheFeynmanLecturesOnPhysicsVolumes1_3_1963) | |
