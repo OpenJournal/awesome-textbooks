@@ -7,9 +7,9 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Introduction to Algorithms by Charles E. Leiserson, Clifford Stein, Ron Rivest, and Thomas H. Cormen (nominated x4)](http://citc.ui.ac.ir/zamani/clrs.pdf) | [108986](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) | 
 | [Artificial Intelligence: A Modern Approach by Peter Norvig and Stuart J. Russell (nominated x3)](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf) | [27543](https://www.goodreads.com/book/show/27543.Artificial_Intelligence) |
 | [Godel Escher Bach: An Eternal Golden Braid by Douglas R. Hofstadter (recommended 3x)](https://archive.org/details/GEBen_201404) [pdf](http://www.physixfan.com/wp-content/files/GEBen.pdf) | [24113](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) |
-| [Calculus Made Easy: Being a Very Simplest Introduction to Those Beautiful Methods of Recknoning which are Generally Called by the Terrifying Names of the Differntial Calculus and the Integral Calculus Macmillan, 1914](https://archive.org/details/CalculusMadeEasy) | |
-| [Autobiography of Ben Franklin](https://archive.org/details/autobiographybe00frangoog) | |
-| [The Feynman Lectures on Physics (Esp. Volume III)](https://archive.org/details/TheFeynmanLecturesOnPhysicsVolumes1_3_1963) | |
+| [Calculus Made Easy: Being a Very Simplest Introduction to Those Beautiful Methods of Recknoning which are Generally Called by the Terrifying Names of the Differntial Calculus and the Integral Calculus Macmillan, 1914](https://archive.org/details/CalculusMadeEasy) | [818063](https://www.goodreads.com/book/show/818063.Calculus_Made_Easy) |
+| [Autobiography of Ben Franklin](https://archive.org/details/autobiographybe00frangoog) | [52309](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin) |
+| [The Feynman Lectures on Physics (Esp. Volume III)](https://archive.org/details/TheFeynmanLecturesOnPhysicsVolumes1_3_1963) | [5546](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics) |
 | [Organizational Theory by Kevin Carson's](http://www.mutualist.org/sitebuildercontent/sitebuilderfiles/otkc11.pdf) | |
 | [Structured Interpretation of Computer Programs (SICP)](http://web.mit.edu/alexmv/6.037/sicp.pdf) | |
 | [Euclid's Elements of Geometry](https://archive.org/details/tayloreuclid00euclrich) | |
@@ -27,7 +27,7 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Principles of Mathematical Analysis by Walter Rudin](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) | |
 | [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
 | Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | |
-| A Guide to the Subject-Object Interview: I ts Administration and Interpretation | |
+| A Guide to the Subject-Object Interview: Its Administration and Interpretation | |
 | New Cinematographers by Alex Ballinger | |
 | Impro: Improvisation and the Theatre by Keith Johnstone | |
 | Topology Via Logic by Vickers [Table of Contents](http://www.gbv.de/dms/ilmenau/toc/21309293X.PDF) | |
