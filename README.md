@@ -10,11 +10,11 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Calculus Made Easy: Being a Very Simplest Introduction to Those Beautiful Methods of Recknoning which are Generally Called by the Terrifying Names of the Differntial Calculus and the Integral Calculus Macmillan, 1914](https://archive.org/details/CalculusMadeEasy) | [818063](https://www.goodreads.com/book/show/818063.Calculus_Made_Easy) |
 | [Autobiography of Ben Franklin](https://archive.org/details/autobiographybe00frangoog) | [52309](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin) |
 | [The Feynman Lectures on Physics (Esp. Volume III)](https://archive.org/details/TheFeynmanLecturesOnPhysicsVolumes1_3_1963) | [5546](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics) |
-| [Organizational Theory by Kevin Carson's](http://www.mutualist.org/sitebuildercontent/sitebuilderfiles/otkc11.pdf) | |
-| [Structured Interpretation of Computer Programs (SICP)](http://web.mit.edu/alexmv/6.037/sicp.pdf) | |
-| [Euclid's Elements of Geometry](https://archive.org/details/tayloreuclid00euclrich) | |
-| [Plutarch's Lives](http://classics.mit.edu/Browse/browse-Plutarch.html) | |
-| [How to Solve It by George Pólya](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) | |
+| [Organizational Theory by Kevin Carson](http://www.mutualist.org/sitebuildercontent/sitebuilderfiles/otkc11.pdf) | [7076739](https://www.goodreads.com/book/show/7076739-organization-theory)|
+| [Structured Interpretation of Computer Programs (SICP)](http://web.mit.edu/alexmv/6.037/sicp.pdf) | [43713](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)|
+| [Euclid's Elements of Geometry](https://archive.org/details/tayloreuclid00euclrich) | [214441](https://www.goodreads.com/book/show/214441.Euclid_s_Elements) |
+| [Plutarch's Lives](http://classics.mit.edu/Browse/browse-Plutarch.html) | [415634](https://www.goodreads.com/book/show/415634.Plutarch_s_Lives_Volume_1) |
+| [How to Solve It by George Pólya](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) | [192221](https://www.goodreads.com/book/show/192221.How_to_Solve_It) |
 | [Aristotle's Physics](https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks#page/n601/mode/2up) | |
 | [Campbell Biology (nominated x2)](http://m-learning.zju.edu.cn/G2S/eWebEditor/uploadfile/20120925133308427.pdf) | |
 | [The Art of Computer Programming (Volume I) by Donald Knuth](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf) | |
