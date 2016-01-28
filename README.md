@@ -27,6 +27,7 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Principles of Mathematical Analysis by Walter Rudin](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) | |
 | [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
 | Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | |
+| Mining of Massive Datasets | http://infolab.stanford.edu/~ullman/mmds/book.pdf |
 | A Guide to the Subject-Object Interview: Its Administration and Interpretation | |
 | New Cinematographers by Alex Ballinger | |
 | Impro: Improvisation and the Theatre by Keith Johnstone | |
