@@ -15,20 +15,21 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Euclid's Elements of Geometry](https://archive.org/details/tayloreuclid00euclrich) | [214441](https://www.goodreads.com/book/show/214441.Euclid_s_Elements) |
 | [Plutarch's Lives](http://classics.mit.edu/Browse/browse-Plutarch.html) | [415634](https://www.goodreads.com/book/show/415634.Plutarch_s_Lives_Volume_1) |
 | [How to Solve It by George Pólya](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) | [192221](https://www.goodreads.com/book/show/192221.How_to_Solve_It) |
-| [Aristotle's Physics](https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks#page/n601/mode/2up) | |
-| [Campbell Biology (nominated x2)](http://m-learning.zju.edu.cn/G2S/eWebEditor/uploadfile/20120925133308427.pdf) | |
-| [The Art of Computer Programming (Volume I) by Donald Knuth](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf) | |
-| [Rules For The Direction Of The Mind by Descartes](https://archive.org/details/descartessrulesf032479mbp) | |
-| [Linear Algebra Done Right by Axler](https://math-test.googlecode.com/files/Linear%20Algebra%20Done%20Right,%202nd%20Ed%20-%20Sheldon%20Axler.pdf) (Compared w/ [Introduction to Linear Algebra by Gilbert Strang](http://genes.mit.edu/burgelab/yarden/strang_linear_algebra.pdf)) | |
-| [Out of Control: The New Biology Of Machines, Social Systems, and the Economic World by Kevin Kelly](http://kk.org/mt-files/books-mt/ooc-mf.pdf) | |
-| [De mulieribus claris (On Famous Women) (Translated)](https://books.google.com/books?id=pArYB6VgRq8C&pg=PA3&source=gbs_toc_r&cad=3#v=onepage) | |
+| [Biology by Campbell (nominated x2)](http://m-learning.zju.edu.cn/G2S/eWebEditor/uploadfile/20120925133308427.pdf) | [145806](https://www.goodreads.com/book/show/145806.Biology) |
+| [The Art of Computer Programming (Volume I) by Donald Knuth](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf) | [112247](https://www.goodreads.com/book/show/112247.Art_of_Computer_Programming_Volume_1) |
+| [Rules For The Direction Of The Mind by Descartes](https://archive.org/details/descartessrulesf032479mbp) | [318740](https://www.goodreads.com/book/show/318740.Rules_for_the_Direction_of_the_Mind)|
+| [Linear Algebra Done Right by Axler](https://math-test.googlecode.com/files/Linear%20Algebra%20Done%20Right,%202nd%20Ed%20-%20Sheldon%20Axler.pdf) | [309768](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) |
+| [Introduction to Linear Algebra by Gilbert Strang](http://genes.mit.edu/burgelab/yarden/strang_linear_algebra.pdf)) | [179700](https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra) |
+| [Aristotle's Metaphysics](https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks#page/n601/mode/2up) | [208036](https://www.goodreads.com/book/show/208036.Metaphysics) |
+| [Out of Control: The New Biology Of Machines, Social Systems, and the Economic World by Kevin Kelly](http://kk.org/mt-files/books-mt/ooc-mf.pdf) | [243725](https://www.goodreads.com/book/show/243725.Out_of_Control) |
+| [De mulieribus claris (On Famous Women) (Translated)](https://books.google.com/books?id=pArYB6VgRq8C&pg=PA3&source=gbs_toc_r&cad=3#v=onepage) | [229225](https://www.goodreads.com/book/show/229225.Famous_Women) |
 | [Trading and Exchanges by Harris (Draft)](http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf) | |
 | [A first course in probability by Ross](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf) | |
 | [Principles of Mathematical Analysis by Walter Rudin](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) | |
 | [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
 | Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | |
 | [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) |  |
-| Introduction to the Theory of Computation by Michael Sipser | [400716](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
+| [Introduction to the Theory of Computation](http://www.cin.ufpe.br/~jjss/Introcuction%20to%20Theory%20of%20computation%20by%20Micheal%20Sipser%20Ist%20Ed..pdf) by Michael Sipser | [400716](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 | Körner on Fourier analysis | [1822893](https://www.goodreads.com/book/show/1822893) |
 | A Guide to the Subject-Object Interview: Its Administration and Interpretation | |
 | New Cinematographers by Alex Ballinger | |
