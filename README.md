@@ -56,3 +56,4 @@ Exum, Erik Rigtorp, Nima Khazaei, Andrew Gibiansky, et al.
 
 * http://lesswrong.com/…/…/the_best_textbooks_on_every_subject
 * http://thegreatestbooks.org/nonfiction
+* [Machine Learning + Math Books on Reddit](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books)
