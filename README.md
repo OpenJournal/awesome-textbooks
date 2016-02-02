@@ -23,12 +23,12 @@ I asked several folks I respect their favorite textbook -- one which they though
 | [Aristotle's Metaphysics](https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks#page/n601/mode/2up) | [208036](https://www.goodreads.com/book/show/208036.Metaphysics) |
 | [Out of Control: The New Biology Of Machines, Social Systems, and the Economic World by Kevin Kelly](http://kk.org/mt-files/books-mt/ooc-mf.pdf) | [243725](https://www.goodreads.com/book/show/243725.Out_of_Control) |
 | [De mulieribus claris (On Famous Women) (Translated)](https://books.google.com/books?id=pArYB6VgRq8C&pg=PA3&source=gbs_toc_r&cad=3#v=onepage) | [229225](https://www.goodreads.com/book/show/229225.Famous_Women) |
-| [Trading and Exchanges by Harris (Draft)](http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf) | |
-| [A first course in probability by Ross](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf) | |
-| [Principles of Mathematical Analysis by Walter Rudin](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) | |
-| [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
-| Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | |
-| [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) |  |
+| [Trading and Exchanges by Harris (Draft)](http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf) | [1290158](https://www.goodreads.com/book/show/1290158.Trading_and_Exchanges) |
+| [A first course in probability by Ross](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf) | [119377](https://www.goodreads.com/book/show/119377.A_First_Course_in_Probability) |
+| [Principles of Mathematical Analysis by Walter Rudin](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) | [292079](https://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis)|
+| [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [148030](https://www.goodreads.com/book/show/148030.Convex_Optimization)|
+| Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | [15857489](https://www.goodreads.com/book/show/15857489-machine-learning) |
+| [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) | [12818088](https://www.goodreads.com/book/show/12818088-mining-of-massive-datasets) |
 | [Introduction to the Theory of Computation](http://www.cin.ufpe.br/~jjss/Introcuction%20to%20Theory%20of%20computation%20by%20Micheal%20Sipser%20Ist%20Ed..pdf) by Michael Sipser | [400716](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 | Körner on Fourier analysis | [1822893](https://www.goodreads.com/book/show/1822893) |
 | A Guide to the Subject-Object Interview: Its Administration and Interpretation | |
