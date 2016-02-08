@@ -30,6 +30,7 @@ I asked several folks I respect their favorite textbook -- one which they though
 | Machine Learning A Probabilistic Perspective By Kevin P. Murphy ([intro](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf)) | [15857489](https://www.goodreads.com/book/show/15857489-machine-learning) |
 | [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) | [12818088](https://www.goodreads.com/book/show/12818088-mining-of-massive-datasets) |
 | [Introduction to the Theory of Computation](http://www.cin.ufpe.br/~jjss/Introcuction%20to%20Theory%20of%20computation%20by%20Micheal%20Sipser%20Ist%20Ed..pdf) by Michael Sipser | [400716](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
+| [Process and Reality, An Essay in Cosmology](https://archive.org/details/AlfredNorthWhiteheadProcessAndReality) by Alfred North Whitehead| [851541](https://www.goodreads.com/book/show/851541.Process_and_Reality) |
 | Körner on Fourier analysis | [1822893](https://www.goodreads.com/book/show/1822893) |
 | A Guide to the Subject-Object Interview: Its Administration and Interpretation | |
 | New Cinematographers by Alex Ballinger | |
