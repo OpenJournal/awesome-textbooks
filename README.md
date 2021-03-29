@@ -45,6 +45,7 @@ I asked several folks I respect their favorite textbook -- one which they though
 | Fundamental Neuroscience (Squire) | |
 | Schneier's Applied Cryptography | |
 | An Introduction to Analysis by Wade | |
+| Rocket Propulsion Elements, 8th Edition by Oscar Biblarz, George P. Sutton | [7682536](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) |
 
 Thanks Mark P Xu Neyer, Nick Sharp, Douglas Eck, Stephen Rhein, Joseph Perla,
 Shachaf Ben-Kiki, Malcolm Ocean, Erin Parker, Philip Saponaro, Adrian Perez,
